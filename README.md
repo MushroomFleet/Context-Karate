@@ -1,4 +1,5 @@
 # Intelligence Fiction Development Environment
+https://www.youtube.com/watch?v=9L44RGspaTo
 
 A specialized development environment for authors working in intelligence/spy fiction genres, leveraging advanced AI capabilities while maintaining appropriate creative boundaries.
 
